@@ -1,0 +1,110 @@
+﻿  Game.cpp
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.h(73,24): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.h(74,24): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.h(102,23): warning C4244: '=' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.h(103,23): warning C4244: '=' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.cpp(247,137): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.cpp(247,116): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.cpp(301,55): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.cpp(305,50): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.cpp(309,55): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.cpp(313,50): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.cpp(396,182): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.cpp(396,97): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.cpp(449,50): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.cpp(449,30): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.cpp(457,50): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.cpp(457,30): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.cpp(466,50): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.cpp(466,30): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.cpp(474,50): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.cpp(474,30): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.cpp(484,69): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.cpp(484,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  plateformer_sommative.cpp
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.h(73,24): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.h(74,24): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.h(102,23): warning C4244: '=' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\plateformer_sommative\Game.h(103,23): warning C4244: '=' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+  Génération de code en cours...
+  plateformer_sommative.vcxproj -> C:\Users\Mat\Desktop\SAE institute\cour et traveaux\repository cour Sae\plateformer_sommative\x64\Debug\plateformer_sommative.exe
